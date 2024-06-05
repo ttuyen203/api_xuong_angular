@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "iPhone 11",
-      "image": "https://picsum.photos/id/230/200/300",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1717601011/Products/sp10_m2yzxp.jpg",
       "description": "A powerful smartphone with impressive features.",
       "price": 1000,
       "category": "Apple",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "iPhone 12",
-      "image": "https://picsum.photos/id/231/200/300",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1717601017/Products/sp11_plvr2g.jpg",
       "description": "The latest flagship smartphone from Apple.",
       "price": 1200,
       "category": "Apple",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "Samsung S21",
-      "image": "https://picsum.photos/id/229/200/300",
+      "image": "https://res.cloudinary.com/dymajn3ys/image/upload/v1717601040/Products/sp3_icj9a3.jpg",
       "description": "A cutting-edge smartphone with top-notch features.",
       "price": 1100,
       "category": "Samsung",
